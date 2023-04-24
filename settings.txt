@@ -1,0 +1,17 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Dmitry Levagin: Python разработчик и автор контента",
+"description": "Дмитрий Левагин - портфолио, резюме и блог Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "Левагин Дмитрий",
+"tag1":"Разработчик и программист на языках",
+"tag2":"Python, Java, Django",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/Dimazar228",
+"vk":"https://vk.com/id359923589",
+"email":"mailto:dimonlevagin2004@gmail.com",
+"city":"Казань"
+}
